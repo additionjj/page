@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiajia Wang</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Jiajia Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Oct 2025 00:10:00 -0700</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jiajia Wang</title>
+      <link>https://example.org/main/</link>
+      <pubDate>Sat, 04 Oct 2025 00:10:00 -0700</pubDate>
+      <guid>https://example.org/main/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Jiajia Wang, a fourth-year Ph.D. student in Mathematics at the University of California, San Diego. My research focuses on optimization, tensor methods, and machine learning applications, with particular interest in algorithm design and large-scale data analysis. I have experience in developing neural network algorithms, solving bilevel and multi-task optimization problems, and mentoring undergraduate students in research projects.&lt;/p&gt;&#xA;&lt;p&gt;(&lt;a href=&#34;https://example.org/files/Jiajia_CV.pdf&#34;&gt;Download My CV (PDF)&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;h3 id=&#34;publication--preprints&#34;&gt;Publication &amp;amp; Preprints&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Paper 1: Title, Journal/Conference, Year&lt;/li&gt;&#xA;&lt;li&gt;Paper 2: Title, Journal/Conference, Year&lt;/li&gt;&#xA;&lt;li&gt;Preprint: Title, arXiv link&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;internship&#34;&gt;Internship&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Summer 2024: Quantitative Research Intern at XYZ&lt;/li&gt;&#xA;&lt;li&gt;Summer 2023: Data Science Intern at ABC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;teaching&#34;&gt;Teaching&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TA for Math 18: MATLAB and Linear Algebra&lt;/li&gt;&#xA;&lt;li&gt;TA for Math 4C: Multivariable Calculus&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+
+    </div>
+    <div class="sidebar-social">
+      <ul>
+        <li><a href="https://www.linkedin.com/in/jiajia-wang-610131253/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/additionjj" target="_blank">GitHub</a></li>
+        <li><a href="https://scholar.google.com/citations?user=0Dnt4wgAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
+        
+      </ul>
+      <ul>
+        <li>Email: <a href="mailto:jiw133@ucsd.edu">jiw133@ucsd.edu</a></li>
+        <li>School: UC San Diego, Department of Mathematics</li>
+      </ul>
+    </div>
+    <nav>
+    
+
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
+  </div>
+</aside>

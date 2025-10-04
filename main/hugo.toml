@@ -1,0 +1,33 @@
+theme = "hyde"
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jiajia Wang'
+[params]
+  github = "https://github.com/yourusername"
+  linkedin = "https://www.linkedin.com/in/yourname/"
+  twitter = "https://twitter.com/yourusername"
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
